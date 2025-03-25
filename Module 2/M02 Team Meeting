@@ -1,1 +1,44 @@
+Meeting minutes
+  Jose - 60 minutes
+    Assumed role of Documentation Specialist Will buff up the Feasibility study (participated in the discussion regarding the team project)
+  Cesar - 25 minutes
+    Going to research SFML and get back to us on whether or not it seems feasible to use and learn within our 6-week timeframe.  (participated in the discussion regarding the team project)
+  Nishant - 60 minutes
+    Assumed the role of Project Manager and got the team set up on GitHub and teamgantt.  (participated in the discussion regarding the team project)
+  Tucker - 60 minutes
+    Assumed the role of Programmer to start working on UML diagrams for this program(participated in the discussion regarding the team project)
 
+M02 Project Plan
+  1.)  Introduction - the introduction should briefly describe the objectives of the project and set out any constraints of the project
+  2.)  Project organization - list the team members and the roles of the members of the team.
+        Nishant Yamakanamrdi - Project Manager
+        Jose Gonzalez - Documentation Specialist
+        Tucker Vanderwielen - Programmer
+        Cesar - SFML Design
+  3.)  Risk Analysis - your previously completed risk analysis should be included
+  4.)  Hardware and software requirements of the software and also the development environment (language, etc.)
+  5.)  Work breakdown - how the project is broken into activities.
+  6.)  Process Flow Diagrams - To learn more about this very important section of your project plan read about
+  7.)  Project schedule - dependencies between activities
+  8.)  Monitoring and reporting mechanisms - What tools were chosen to help with communication, collaboration, and scheduling.
+  9.)Appendix - The appendix should include a summary of the activities identified in this project plan. This summary should include the following information in either a table or excel spreadsheet form:
+        Number identifying the activity
+        Short description of the activity
+        Estimate the time it will take to complete the activity
+        List of any activities on which the current activity relies (dependencies)
+M02 Risk Assessment Document
+  We will discuss this in more detail this Wednesday 3-26
+M02 Feasibility Study
+  1.) Is this plan technically feasible?
+  2.) Is this plan legal?
+  3.) Is this plan operationally feasible?
+  4.) Is this plan feasible within a reasonable period of time?  
+      Yes within the 6 weeks, it should be feasible especially if we work out the Project plan by week one. With an estimated 15 hours of programming, 5 hours of documenting, and 10 hours of learning and coding using SFML. 8 hours in team meetings.
+  5.) Is this plan economically feasible? Finally, we reach the most obvious of the feasibility questions. This is where you will assess whether or not this project will provide the supposed value needed to justify its cost. You can assess this area of feasibility based on several different factors, including:
+    Projected profitability
+    The total cost of completion
+    Estimated investment by outside parties
+    10 Cost-Benefit Analysis Examples (2025)Links to an external site.
+  6.) Does the system contribute to the overall objectives of the organization?
+  7.) Can the system be implemented within the schedule and budget using current technology?
+  8.) Can the system be integrated with other systems that are used?
