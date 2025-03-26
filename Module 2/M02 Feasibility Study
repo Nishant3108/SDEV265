@@ -1,1 +1,29 @@
+M02 Feasibility Study
+  1.) Is this plan technically feasible?
+Yes, the hardware and software requirements are not overboard, and everyone on the team has the proper equipment. Some challenges include the implementation of real-time illumination and the SFML.
+  2.) Is this plan legal?
+Yes, we are not engaging in any piracy or using unauthorized hardware or software.
+  3.) Is this plan operationally feasible?
+It would require considerable effort, given the limited time and limited knowledge, but as a team, we will overcome these challenges.
+  4. Is this plan feasible within a reasonable timeframe?  
+      Yes, within the next 6 weeks, it should be feasible, especially if we finalize the Project plan by week one. With an estimated 15 hours of programming, 5 hours of documenting, and 10 hours of learning and coding using SFML. 8 hours in team meetings.
+5.) Is this plan economically feasible?
+From an economic perspective, this project is designed with cost efficiency in mind. The projected profit is not measured in direct revenue since this is a prototype and learning project rather than a commercial product. However, its actual value lies in the skills development and proof-of-concept demonstration for potential future projects.
+Since we are using tools such as Trellol, GitHub, C++, and SFML, the capital investment is primarily the time spent working on the project behind the screen rather than a financial investment.
+Therefore, the cost-benefit analysis is positive; we must work on a project as a team that requires effort, and we gain valuable experience.
+6.) Does the system contribute to the overall objectives of the organization?
+Yes, the system aligns well with the broader objectives of the organization by:
+Practice: The project offers the team an opportunity to enhance their skills in C++ and modern game development techniques using SFML.
 
+Demonstrating Innovation: By developing a prototype that integrates dynamic gameplay elements, including lighting, enemy AI, and puzzles, the project showcases the organization’s capability to innovate and implement complex systems.
+Supporting Collaborative Growth: With defined roles and collaborative tools, the project is based on teamwork and learning.
+Setting a Foundation for Future Projects: The prototype can serve as a stepping stone for more extensive, potentially marketable projects in the future.
+7.) Can the system be implemented within the schedule and budget using current technology?
+The system is designed to be implemented within a six-week timeframe by leveraging modern, widely available technologies:
+
+Current Technology: The use of C++ and SFML, along with a phased approach that starts from basic mechanics and progresses to more complex systems, including lighting, enemy AI, and puzzles, is structured to facilitate iterative development and early testing. Finally, we primarily use open-source tools, so the budget is not a significant concern for this project.
+
+8. Can the system be integrated with other systems that are currently in use?
+Integration is feasible given the modular design and use of standard libraries. The project is structured into distinct modules (player movement, lighting, enemy AI, and puzzle mechanics), allowing individual components to be updated or integrated independently.
+Using industry-standard tools like Git for version control and Trellol for project management facilitates.
+The system’s codebase, built on open standards (C++ and SFML), enables it to be easily integrated with other software systems, whether for further game development or educational platforms. While the project is a prototype, its architecture supports extension and refinement, ensuring it can interoperate with future modules or systems developed by the organization.
