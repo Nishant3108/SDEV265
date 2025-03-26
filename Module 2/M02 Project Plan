@@ -1,1 +1,29 @@
+M02 Project Plan
+  1.)  Introduction - the introduction should briefly describe the objectives of the project and set out any constraints of the project
+The goal of this project is to develop a game using C++ and SFML within a six-week timeframe, starting no later than the end of this week. The game will focus on player movement, 
+lighting and shadow mechanics, enemy AI, and interactive puzzle elements. Our goal is to create an engaging experience where players navigate an environment while avoiding detection
+by strategically manipulating light sources.
+The project will be developed in phases, starting with the basic game mechanics in a console environment before integrating SFML for graphics rendering. 
+This process is still being analyzed to determine whether it is too ambitious within our limited timeframe. Currently, several key elements of the game 
+have been identified, including a 2D grid movement system, real-time lighting and shadow rendering, patrolling enemies that react to player visibility,
+and interactive objects that impact the game world. Realistically, our goal is to create at least one level that meets these characteristics.
+A structured development plan ensures efficiency, with specific tasks assigned to each team member. Nishant is the project manager, José handles documentation,
+Tucker develops UML diagrams and programming logic, and César researches and implements SFML-based designs. The project's feasibility has been assessed, taking into account technical, legal, and economic constraints. Given the available resources and the structured timeline, we anticipate completing the project within the allotted six weeks. Through iterative development, testing, and collaboration, this project aims to deliver a functional and engaging stealth game prototype that will involve everyone's participation, supporting our coding colleagues. We hope to achieve our goals.
+
+  2.)  Project organization - list the team members and the roles of the members of the team.
+        Nishant Yamakanamrdi - Project Manager
+        Jose Gonzalez - Documentation Specialist
+        Tucker Vanderwielen - Programmer
+        Cesar - SFML Design
+  3.)  Risk Analysis - your previously completed risk analysis should be included
+  4.)  Hardware and software requirements of the software and also the development environment (language, etc.)
+  5.)  Work breakdown - how the project is broken into activities.
+  6.)  Process Flow Diagrams - To learn more about this very important section of your project plan read about
+  7.)  Project schedule - dependencies between activities
+  8.)  Monitoring and reporting mechanisms - What tools were chosen to help with communication, collaboration, and scheduling.
+  9.)Appendix - The appendix should include a summary of the activities identified in this project plan. This summary should include the following information in either a table or excel spreadsheet form:
+        Number identifying the activity
+        Short description of the activity
+        Estimate the time it will take to complete the activity
+        List of any activities on which the current activity relies (dependencies)
 
