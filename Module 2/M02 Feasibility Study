@@ -25,5 +25,5 @@ Current Technology: The use of C++ and SFML, along with a phased approach that s
 
 8. Can the system be integrated with other systems that are currently in use?
 Integration is feasible given the modular design and use of standard libraries. The project is structured into distinct modules (player movement, lighting, enemy AI, and puzzle mechanics), allowing individual components to be updated or integrated independently.
-Using industry-standard tools like Git for version control and Trellol for project management facilitates.
+Using industry-standard tools like Git for version control and Teamgantt for project management facilitates.
 The system’s codebase, built on open standards (C++ and SFML), enables it to be easily integrated with other software systems, whether for further game development or educational platforms. While the project is a prototype, its architecture supports extension and refinement, ensuring it can interoperate with future modules or systems developed by the organization.
