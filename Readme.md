@@ -52,6 +52,24 @@ Navigate a dark castle filled with perilous light traps that follow predictable 
 
 ---
 
+### Main Menu  
+The main menu has multiple options for starting, restarting, and quitting the game.
+
+![image](https://github.com/user-attachments/assets/4d461843-4e7e-40f6-9945-6ac2cc48dee5)
+
+### Gameplay  
+- Use `Arrow Keys` or `WASD` to move  
+- Avoid light, collect coins
+
+![image](https://github.com/user-attachments/assets/1878f98f-2b05-4b3b-a6c4-2c0920de8f3b)
+
+### Pause Menu  
+- Press `ESC` to access this menu during play  
+
+![image](https://github.com/user-attachments/assets/fed00607-8ebc-4337-a17e-dd2ccd3e607f)
+
+---
+
 ## Building from Source (Godot Engine)  
 
 ### Prerequisites  
@@ -81,26 +99,9 @@ Navigate a dark castle filled with perilous light traps that follow predictable 
 
 9. Select the `project.godot` file and click **Run**
 
-![image](https://github.com/user-attachments/assets/6e0593c8-7f51-4a4d-a044-c94087aa5ac3)
+<img width="956" alt="image" src="https://github.com/user-attachments/assets/5123598e-ca77-4954-8df4-36f75ff62561" />
 
 ![image](https://github.com/user-attachments/assets/75a852d0-f8e6-4944-b7e8-83054f009415)
-
-
-### Main Menu  
-The main menu has multiple options for starting, restarting, and quitting the game.
-
-![image](https://github.com/user-attachments/assets/4d461843-4e7e-40f6-9945-6ac2cc48dee5)
-
-### Gameplay  
-- Use `Arrow Keys` or `WASD` to move  
-- Avoid light, collect coins
-
-![image](https://github.com/user-attachments/assets/1878f98f-2b05-4b3b-a6c4-2c0920de8f3b)
-
-### Pause Menu  
-- Press `ESC` to access this menu during play  
-
-![image](https://github.com/user-attachments/assets/fed00607-8ebc-4337-a17e-dd2ccd3e607f)
 
 ---
 
