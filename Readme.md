@@ -64,28 +64,51 @@ Navigate a dark castle filled with perilous light traps that follow predictable 
    
 <img width="631" alt="Image" src="https://github.com/user-attachments/assets/417c36e9-ff5a-42fd-94e0-b69fa221be36" />
    
-3. Extract files with WinRAR or 7-Zip  
+2. Extract files with WinRAR or 7-Zip
+
+![Image](https://github.com/user-attachments/assets/4cbb3ed5-d306-4b9e-8c8b-2d4f16a9297a)
+
+![Image](https://github.com/user-attachments/assets/5ec0f2ef-c1cd-47e5-a5bd-53dfb0ba49b1)
+
 4. Open the Godot executable without the console icon  
-5. Click **Import** in Godot  
-6. Navigate to the folder where the source code is stored  
-7. Select the `project.godot` file and click **Run**
+5. Click **Import** in Godot
+
+![image](https://github.com/user-attachments/assets/7daecceb-c3bb-4d16-a021-4e50645ece63)
+
+7. Navigate to the folder where the source code is stored
+
+![image](https://github.com/user-attachments/assets/74541458-da5a-4b47-a938-4984b259366a)    ![image](https://github.com/user-attachments/assets/5475282b-3a7c-4b2d-a90f-55bb59a72dae)
+
+9. Select the `project.godot` file and click **Run**
+
+![image](https://github.com/user-attachments/assets/6e0593c8-7f51-4a4d-a044-c94087aa5ac3)
+
+![image](https://github.com/user-attachments/assets/75a852d0-f8e6-4944-b7e8-83054f009415)
+
 
 ### Main Menu  
 The main menu has multiple options for starting, restarting, and quitting the game.
 
+![image](https://github.com/user-attachments/assets/4d461843-4e7e-40f6-9945-6ac2cc48dee5)
+
 ### Gameplay  
 - Use `Arrow Keys` or `WASD` to move  
-- Avoid light, collect coins  
+- Avoid light, collect coins
+
+![image](https://github.com/user-attachments/assets/1878f98f-2b05-4b3b-a6c4-2c0920de8f3b)
 
 ### Pause Menu  
 - Press `ESC` to access this menu during play  
+
+![image](https://github.com/user-attachments/assets/fed00607-8ebc-4337-a17e-dd2ccd3e607f)
 
 ---
 
 ## Credits  
 
 **Development Team:**  
-- Team Six (SDEV 265)  
+- Team Six (SDEV 265)
+- Nishant Yamakanamardi, Tucker Vanderwielen, Jose Daniel Gonzalez & Cesar Ayala.
 
 **Contributors:**  
 - Nishant Yamakanamardi: Project Manager
