@@ -85,8 +85,10 @@ The main menu has multiple options for starting, restarting, and quitting the ga
 - Team Six (SDEV 265)  
 
 **Contributors:**  
-- Tucker & Nishant: Core gameplay programming  
-- Jose: Documentation & testing  
+- Nishant Yamakanamardi: Project Manager
+- Tucker Vanderwielen: Lead Programmer 
+- Jose Daniel Gonzalez: Lead Documentation & testing
+- Cesar Ayala: Testing & debugging
 
 **Assets:**  
 - Godot Open Source Community (Art/Sound)  
