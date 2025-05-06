@@ -45,10 +45,9 @@ Navigate a dark castle filled with perilous light traps that follow predictable 
 
 <img width="164" alt="image" src="https://github.com/user-attachments/assets/d8377cb0-0292-45d5-b874-95c9d9e24fae" />
 
-   The third file in the picture is the '.exe' file
+The third file in the picture is the `.exe` file
    
-3. Follow on-screen instructions  
-4. Launch from desktop shortcut  
+3. The game will open once clicked 
 
 **System Requirements:**  
 - OS: Windows 10/11  
@@ -108,6 +107,9 @@ The main menu has multiple options for starting, restarting, and quitting the ga
 
 ![image](https://github.com/user-attachments/assets/75a852d0-f8e6-4944-b7e8-83054f009415)
 
+7. The source code mentions about a file being created to save the game details each time the player plays. Although it's displayed in the game stats screen you can access it on your local machine with this path -> C:\Users<yourusername>\AppData\Roaming\Godot\app_userdata\Shadow_Walker
+> ⚠️ **Warning:** The path may vary depending on your operating system, project name, or if you're running an exported version of the game.
+
 ---
 
 ## Credits  
@@ -131,6 +133,7 @@ The main menu has multiple options for starting, restarting, and quitting the ga
 
 Contact support:  
 - Jgonzalez331@ivytech.edu  
-- Insert yours  
+- nishantry3108@gmail.com
+- insert yours
 
 *For contribution guidelines and license information, see project repository.*
