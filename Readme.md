@@ -40,7 +40,7 @@ Navigate a dark castle filled with perilous light traps that follow predictable 
 
 ## Installation  
 
-1. Download the Windows `.exe` installer  
+1. Download the Windows `.exe` installer - there are 3 files present inside the .exe folder make sure all of them are installed in the same path!
 2. Double-click to launch installation  
 3. Follow on-screen instructions  
 4. Launch from desktop shortcut  
