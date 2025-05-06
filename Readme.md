@@ -41,7 +41,10 @@ Navigate a dark castle filled with perilous light traps that follow predictable 
 ## Installation  
 
 1. Download the Windows `.exe` installer - there are 3 files present inside the .exe folder make sure all of them are installed in the same path!
-2. Double-click to launch installation  
+2. Double-click to launch installation
+
+<img width="164" alt="image" src="https://github.com/user-attachments/assets/d8377cb0-0292-45d5-b874-95c9d9e24fae" />
+   The third file in the picture is the '.exe' file
 3. Follow on-screen instructions  
 4. Launch from desktop shortcut  
 
@@ -88,16 +91,16 @@ The main menu has multiple options for starting, restarting, and quitting the ga
 
 ![Image](https://github.com/user-attachments/assets/5ec0f2ef-c1cd-47e5-a5bd-53dfb0ba49b1)
 
-4. Open the Godot executable without the console icon  
-5. Click **Import** in Godot
+3. Open the Godot executable without the console icon  
+4. Click **Import** in Godot
 
 ![image](https://github.com/user-attachments/assets/7daecceb-c3bb-4d16-a021-4e50645ece63)
 
-7. Navigate to the folder where the source code is stored
+5. Navigate to the folder where the source code is stored
 
 ![image](https://github.com/user-attachments/assets/74541458-da5a-4b47-a938-4984b259366a)    ![image](https://github.com/user-attachments/assets/5475282b-3a7c-4b2d-a90f-55bb59a72dae)
 
-9. Select the `project.godot` file and click **Run**
+6. Select the `project.godot` file and click **Run**
 
 <img width="956" alt="image" src="https://github.com/user-attachments/assets/5123598e-ca77-4954-8df4-36f75ff62561" />
 
