@@ -61,7 +61,9 @@ Navigate a dark castle filled with perilous light traps that follow predictable 
 ### Setup  
 
 1. Download and install [Godot Engine](https://godotengine.org/download/windows/)
-   <img width="631" alt="Image" src="https://github.com/user-attachments/assets/417c36e9-ff5a-42fd-94e0-b69fa221be36" />
+   
+<img width="631" alt="Image" src="https://github.com/user-attachments/assets/417c36e9-ff5a-42fd-94e0-b69fa221be36" />
+   
 3. Extract files with WinRAR or 7-Zip  
 4. Open the Godot executable without the console icon  
 5. Click **Import** in Godot  
