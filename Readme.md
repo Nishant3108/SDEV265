@@ -60,12 +60,13 @@ Navigate a dark castle filled with perilous light traps that follow predictable 
 
 ### Setup  
 
-1. Download and install [Godot Engine](https://godotengine.org/download/windows/)  
-2. Extract files with WinRAR or 7-Zip  
-3. Open the Godot executable without the console icon  
-4. Click **Import** in Godot  
-5. Navigate to the folder where the source code is stored  
-6. Select the `project.godot` file and click **Run**
+1. Download and install [Godot Engine](https://godotengine.org/download/windows/)
+   <img width="631" alt="Image" src="https://github.com/user-attachments/assets/417c36e9-ff5a-42fd-94e0-b69fa221be36" />
+3. Extract files with WinRAR or 7-Zip  
+4. Open the Godot executable without the console icon  
+5. Click **Import** in Godot  
+6. Navigate to the folder where the source code is stored  
+7. Select the `project.godot` file and click **Run**
 
 ### Main Menu  
 The main menu has multiple options for starting, restarting, and quitting the game.
