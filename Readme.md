@@ -44,7 +44,9 @@ Navigate a dark castle filled with perilous light traps that follow predictable 
 2. Double-click to launch installation
 
 <img width="164" alt="image" src="https://github.com/user-attachments/assets/d8377cb0-0292-45d5-b874-95c9d9e24fae" />
+
    The third file in the picture is the '.exe' file
+   
 3. Follow on-screen instructions  
 4. Launch from desktop shortcut  
 
