@@ -132,8 +132,6 @@ The main menu has multiple options for starting, restarting, and quitting the ga
 ## Need Help?  
 
 Contact support:  
-- Jgonzalez331@ivytech.edu  
 - nishantry3108@gmail.com
-- insert yours
-
-*For contribution guidelines and license information, see project repository.*
+- tuckervandy@gmail.com
+- Jgonzalez331@ivytech.edu
